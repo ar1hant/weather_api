@@ -47,8 +47,8 @@
 }
 
 .btn.box.dark{
-  background-color: rgb(43, 42, 42);
-  color: white;
+  background-color: white;
+  color: black;
 }
 
 .App{
